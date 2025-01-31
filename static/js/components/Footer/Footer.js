@@ -26,7 +26,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="https://t.me/HeavenW_AI"
+              href="https://t.me/BeArtAI_ETH"
               target="_blank"
               rel="noreferrer"
             >

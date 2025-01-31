@@ -595,7 +595,7 @@ const SideBar = () => {
                 </a>
               </li>
               <li>
-                <a href="https://t.me/HeavenW_AI" target="_blank" rel="noreferrer">
+                <a href="https://t.me/BeArtAI_ETH" target="_blank" rel="noreferrer">
                   <img src={iconTele} alt="telegram" />
                 </a>
               </li>

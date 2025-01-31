@@ -79,7 +79,7 @@ const ContactUs = () => {
                   <span className="ttl">X (Twitter): Be Art AI</span>
                 </a>
                 <a
-                  href="https://t.me/HeavenW_AI"
+                  href="https://t.me/BeArtAI_ETH"
                   className="setting-social__item"
                   target="_blank"
                   rel="noreferrer"
