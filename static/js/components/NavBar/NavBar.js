@@ -716,7 +716,7 @@ const NavBar = ({ style, isEdit = true }) => {
                         >
                           <li>
                             <a
-                              href="https://twitter.com/HeavenW_AI"
+                              href="https://x.com/BeArtAI_ETH"
                               target="_blank"
                               rel="noreferrer"
                             >

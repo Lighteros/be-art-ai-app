@@ -584,7 +584,7 @@ const SideBar = () => {
             <p style={{ color: '#FFF', fontWeight: 600 }}>Find us on</p>
             <div style={{ display: 'flex', alignItems: 'center', gap: 5 }}>
               <li>
-                <a href="https://twitter.com/HeavenW_AI" target="_blank" rel="noreferrer">
+                <a href="https://x.com/BeArtAI_ETH" target="_blank" rel="noreferrer">
                   <img src={iconX} alt="x" />
                 </a>
               </li>

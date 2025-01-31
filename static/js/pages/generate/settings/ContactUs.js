@@ -67,7 +67,7 @@ const ContactUs = () => {
               </a>
               <div className="setting-social">
                 <a
-                  href="https://twitter.com/HeavenW_AI"
+                  href="https://x.com/BeArtAI_ETH"
                   className="setting-social__item"
                   target="_blank"
                   rel="noreferrer"

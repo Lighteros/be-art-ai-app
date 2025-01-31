@@ -17,7 +17,7 @@ const Footer = () => {
         <div style={{ display: "flex", alignItems: "center", gap: 5 }}>
           <li>
             <a
-              href="https://twitter.com/HeavenW_AI"
+              href="https://x.com/BeArtAI_ETH"
               target="_blank"
               rel="noreferrer"
             >
